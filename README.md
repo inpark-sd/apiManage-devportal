@@ -10,7 +10,7 @@
 ## Install
 
 ```sh
-(empty)
+(empty test)
 ```
 
 ## Usage
